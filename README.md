@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Duskomanojlovic
-- 👀 I’m interested in learning Python 
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on something 
-- 📫 How to reach me ...
+ Hi, I'm [@Duskomanojlovic](https://github.com/Duskomanojlovic)!
 
-<!---
-Duskomanojlovic/Duskomanojlovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About Me**
+
+*  I'm passionate about learning Python and eager to expand my knowledge.
+*  I'm currently at the beginning of my Python journey, actively soaking up everything I can. 
+* ️ I'm looking to collaborate on Python projects with other developers. If you have an interesting project, feel free to reach out!
+*  How to reach me:
